@@ -1,0 +1,8 @@
+[29-Nov-2018 09:45:49 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gangadhar/public_html/bluewhale/admin/php/admin-logout.php on line 3
+[29-Nov-2018 13:23:58 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gangadhar/public_html/bluewhale/admin/php/admin-logout.php on line 3
+[29-Nov-2018 13:25:21 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gangadhar/public_html/bluewhale/admin/php/admin-logout.php on line 3
+[29-Nov-2018 13:26:06 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gangadhar/public_html/bluewhale/admin/php/admin-logout.php on line 3
+[29-Nov-2018 13:30:23 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/gangadhar/public_html/bluewhale/admin/php/admin-logout.php on line 2
+[29-Nov-2018 13:30:23 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gangadhar/public_html/bluewhale/admin/php/admin-logout.php on line 3
+[29-Nov-2018 13:30:59 Etc/GMT] PHP Notice:  Undefined variable: _SESSION in /home/gangadhar/public_html/bluewhale/admin/php/admin-logout.php on line 2
+[29-Nov-2018 13:30:59 Etc/GMT] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/gangadhar/public_html/bluewhale/admin/php/admin-logout.php on line 3
