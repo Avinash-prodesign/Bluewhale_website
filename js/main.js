@@ -3,11 +3,7 @@ $(document).ready(function()
 {
 	"use strict";
 
-	/* 
-
-	1. Vars and Inits
-
-	*/
+	/* 1. Vars and Inits  */
 
 	var header = $('.header');
 	var menuActive = false;
@@ -28,11 +24,7 @@ $(document).ready(function()
 	initHomeSlider();
 	
 
-	/* 
-
-	2. Set Header
-
-	*/
+	/* 	2. Set Header  */
 
 	function setHeader()
 	{
@@ -46,11 +38,7 @@ $(document).ready(function()
 		}
 	}
 
-	/* 
-
-	3. Init Menu
-
-	*/
+	/* 3. Init Menu  */
 
 	function initMenu()
 	{
@@ -103,11 +91,7 @@ $(document).ready(function()
 		menuActive = false;
 	}
 
-	/* 
-
-	2. Init Home Slider
-
-	*/
+	/* 2. Init Home Slider  */
 
 	function initHomeSlider()
 	{
